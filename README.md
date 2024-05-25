@@ -1,4 +1,4 @@
-## Hi there[Waving Hand](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)!
+## Hi there ![Waving Hand](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/path/to/your/waving-hand.gif)!
 
 👩‍💻 About Me:
 My name is Nastja, and I am a dedicated Frontend Developer.
@@ -18,8 +18,10 @@ My name is Nastja, and I am a dedicated Frontend Developer.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge&logo=wcag&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
