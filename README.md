@@ -1,7 +1,8 @@
-## Hi there
-![Waving Hand](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+## Hi there 
+![Waving Hand](https://media.tenor.com/images/6f7449d0ee2a22c432b5f2e942080b70/tenor.gif)
 
-👩‍💻 About Me:
+
+## 👩‍💻 About Me:
 My name is Nastja, and I am a dedicated Frontend Developer.
 
 - 🎨 I specialize in designing user-friendly and visually appealing interfaces that enhance the user experience.
