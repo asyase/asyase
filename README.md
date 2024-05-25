@@ -3,15 +3,14 @@
 👩‍💻 About Me:
 My name is Nastja, and I am a dedicated Frontend Developer.
 
-🎨 I specialize in designing user-friendly and visually appealing interfaces that enhance the user experience.
-🚀 Passionate about the latest web development technologies, I am always eager to learn and implement innovative solutions.
-🌱 Committed to continuous learning and professional growth, I actively seek opportunities to expand my skill set and stay current with industry trends.
+-🎨 I specialize in designing user-friendly and visually appealing interfaces that enhance the user experience.
+-🚀 Passionate about the latest web development technologies, I am always eager to learn and implement innovative solutions.
+-🌱 Committed to continuous learning and professional growth, I actively seek opportunities to expand my skill set and stay current with industry trends.
 
 ## 📫 How to get in touch with me:
-
 [selevjorstovaa@gmail.com](mailto:selevjorstovaa@gmail.com)
 
-## 🛠 Skills:
+## 🛠 Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
