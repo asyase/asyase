@@ -4,7 +4,7 @@
 ## 👩‍💻 About Me:
 My name is Nastja, and I am a dedicated Frontend Developer.
 
-I am an adaptable and enthusiastic person, unafraid of challenges and and drive decision-making processes when necessary.
+✨ I am an adaptable and enthusiastic person, unafraid of challenges and and drive decision-making processes when necessary.
 
 - 🎨 I specialize in designing user-friendly and visually appealing interfaces that enhance the user experience.
 - 🚀 Passionate about the latest web development technologies, I am always eager to learn and implement innovative solutions.
