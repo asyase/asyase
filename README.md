@@ -1,11 +1,12 @@
-## Hi there ![Waving Hand](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/path/to/your/waving-hand.gif)!
+## Hi there
+![Waving Hand](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 👩‍💻 About Me:
 My name is Nastja, and I am a dedicated Frontend Developer.
 
--🎨 I specialize in designing user-friendly and visually appealing interfaces that enhance the user experience.
--🚀 Passionate about the latest web development technologies, I am always eager to learn and implement innovative solutions.
--🌱 Committed to continuous learning and professional growth, I actively seek opportunities to expand my skill set and stay current with industry trends.
+- 🎨 I specialize in designing user-friendly and visually appealing interfaces that enhance the user experience.
+- 🚀 Passionate about the latest web development technologies, I am always eager to learn and implement innovative solutions.
+- 🌱 Committed to continuous learning and professional growth, I actively seek opportunities to expand my skill set and stay current with industry trends.
 
 ## 📫 How to get in touch with me:
 [selevjorstovaa@gmail.com](mailto:selevjorstovaa@gmail.com)
