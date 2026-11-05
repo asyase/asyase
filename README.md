@@ -2,7 +2,7 @@
 
 
 ## 👩‍💻 About Me:
-My name is Nastja, and I am a dedicated Frontend Developer.
+My name is Nastja, and I am a dedicated Full-stack Developer, Designer and AI integrator.
 
 ✨ I am an adaptable and enthusiastic person, unafraid of challenges and and drive decision-making processes when necessary.
 
